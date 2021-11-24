@@ -1,4 +1,4 @@
-# Starbucks Webpage
+# Starbucks Website
 ## I made starbucks website with using html,css and javascript.
 
 ![image](/starbucks1.JPG)
